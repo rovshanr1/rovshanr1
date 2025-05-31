@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Rovshan </h1> 
 
-<h3 align="center">iOS Developer | Mobile Developer  </h3>
+<h3 align="center">iOS | Mobile Developer  </h3>
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rovshanr1&left_color=gray&right_color=blue" alt="visitor badge" />
 </p>
