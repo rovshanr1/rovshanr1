@@ -10,7 +10,7 @@
 <div align="center">
   <p>
     🔭 I’m currently building <b>high-performance iOS applications</b>.<br>
-    🌱 Deep diving into <b>SwiftUI, Combine, and MVVM-C Architecture</b>.<br>
+    🌱 Deep diving into <b>SwiftUI, UIKit, Combine, and MVVM-C Architecture</b>.<br>
     🛠 Focusing on <b>Clean Code, Offline-First Design, and User Experience</b>.<br>
     📫 How to reach me: <a href="https://www.linkedin.com/in/rovshan-rasulov-85b601329/">LinkedIn</a>
   </p>
